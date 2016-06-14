@@ -1,0 +1,21 @@
+{
+  "name": "sphero-nodejs",
+  "version": "0.0.0-1",
+  "description": "Sphero control using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sphero"
+  ],
+  "repository": "git@github.com:Besendorfer/Sphero-nodejs.git",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.1"
+  },
+  "dependencies": {
+    "roslib": "^0.18"
+  }
+}
